@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
     Ringtone ringTone;
 		final static int RQS_1 = 1;
 
-				@Override
+				
+@Override
 				protected void onCreate(Bundle savedInstanceState) {
 					super.onCreate(savedInstanceState);
 					setContentView(R.layout.activity_main);
